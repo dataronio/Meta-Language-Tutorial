@@ -31,7 +31,7 @@ The static environment maintains the data types of the variables
 
 val absolute_z = if z < 0 then 0 - z else z ;
 
-val absolute = abs z
+val absolute = abs z;
 		   (* static env: absolute : int   *)
-		   (* dynamic env  absolute --> 200 )
+		   (* dynamic env  absolute --> 200 *)
 
