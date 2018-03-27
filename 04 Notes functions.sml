@@ -11,10 +11,10 @@ fun cube ( x : int) =
     pow ( x, 3)
 
 
-pow ( 2, 3)
+val z = pow ( 2, 3)
 
 val x = (2,3)
-	    pow x
+val ans = pow x
 
 	    (* unless the function has exactly 1 input,
                paranthesis are important *)
