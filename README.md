@@ -1,6 +1,8 @@
 # Meta-Language-
 SML stuff
 
+27 March 2018
+
 I will be implementing (to learn SML ie Standard Meta-Language) SML snippets initially from 
 the lecture notes and videos of University of Washington online course on functional programming.
 
