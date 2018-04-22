@@ -8,12 +8,19 @@ variable binding is done in two 'parts'
 *)
 
 
+(* C-x C-f to open new file in emacs *)
 
 val x = 100; (* int *)
 
 val y = 123;
 	   
 val z = (x + y)- 23;
+
+(* C-x C-s to SAVE file in emacs *)
+(* C-c C-s to OPEN SML repl in emacs *)
+
+
+
 
 (*type checking is done before the program is run *)
 (* that is,
