@@ -1,4 +1,4 @@
-# A  step by step tutorial on ML and functional programming(Meta-Language)
+# A  step by step tutorial on ML (Meta-Language) and functional programming
 SML stuff
 
 27 March 2018
