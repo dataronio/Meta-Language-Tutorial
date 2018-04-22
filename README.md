@@ -1,4 +1,4 @@
-# Meta-Language-
+# Meta-Language
 SML stuff
 
 27 March 2018
