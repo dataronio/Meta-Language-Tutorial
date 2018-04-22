@@ -18,7 +18,7 @@ val z = (x + y)- 23;
 
 (* C-x C-s to SAVE file in emacs *)
 (* C-c C-s to OPEN SML repl in emacs *)
-
+(* C-d  to close the repl *)
 
 
 
