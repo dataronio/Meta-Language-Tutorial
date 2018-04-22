@@ -9,3 +9,12 @@ while uing the REPL:
   It's legal, but might cause issues such as confusion
   
   *)
+
+
+(* error checking:
+
+  - syntax error
+  - type checking error
+  - evaluation
+  
+ *)
