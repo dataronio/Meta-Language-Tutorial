@@ -38,6 +38,27 @@ fun sort_a_pair ( pr : int * int ) =
 
 sort_a_pair ( 2, 1)
 
+(* generalizing the idea to tuples *)
+
+(*example,                                                                                                                                                                                                         
+                                                                                                                                                                                                                   
+(e1,e2,e3,e4)                                                                                                                                                                                                      
+                                                                                                                                                                                                                   
+of type ta * tb * tc * td                                                                                                                                                                                          
+                                                                                                                                                                                                                   
+use #1 e, #2 e, #3 e, #4 e   to access stuff *)
+
+
+(*you can nest tuples*)
+
+val x1 = (7, (true, 9)) (* type is  int * (bool * int) *)
+val x2 = #1 (#2 x1)  (*bool*)
+
+val x3 = ( (3,5), ( (4,8) , ( 1,2) ) )
+
+
+
+
 
 
 
